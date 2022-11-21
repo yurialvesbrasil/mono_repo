@@ -2,6 +2,10 @@
 
 Exemplo de Arquitetura MonoRepo Flutter
 
+<p alin="center">
+  <img alt="Diagrama arquitetural" src=".github/mono_repo.png">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
