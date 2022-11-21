@@ -11,8 +11,8 @@ class AuthenticatorPage extends StatelessWidget {
       body: SizedBox.expand(
         child: Column(
           children: [
-            TextField(),
-            TextField(),
+            const TextField(),
+            const TextField(),
             ElevatedButton(
               onPressed: () {
                 EventBus.emit('Logou');
