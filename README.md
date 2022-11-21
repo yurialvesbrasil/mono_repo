@@ -25,6 +25,6 @@ Arquitetura Flutter - MICRO-FRONTENDS [15](https://www.youtube.com/watch?v=qcz4m
 
 Arquitetura Flutter - MICRO-FRONTENDS [16](https://www.youtube.com/watch?v=NPzeimA27sc&list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS&index=16&ab_channel=DeividWillyan%7CFlutter)
 
-Arquitetura Flutter - MICRO-FRONTENDS [16] (https://www.youtube.com/watch?v=_AhVqzOVmb8&list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS&index=17&ab_channel=DeividWillyan%7CFlutter)
+Arquitetura Flutter - MICRO-FRONTENDS [16](https://www.youtube.com/watch?v=_AhVqzOVmb8&list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS&index=17&ab_channel=DeividWillyan%7CFlutter)
 
 #### flutter run --no-sound-null-safety
